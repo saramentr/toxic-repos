@@ -428,7 +428,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
         "name": "mytechnotalent/turbo-scanner",
-        "commit_link": "https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352?short_path=b335630#diff-b3356305",
+        "commit_link": "https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352",
         "description": "Сетевой сканер. Инструмент используемый для проведения хакерских атак. На странице добавлен тег Ukraine."
     },
     {
@@ -604,8 +604,8 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "hostile_actions",
         "name": "Uptime kuma",
-        "commit_link": "https://github.com/louislam/uptime-kuma/tree/1.12.0 https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released",
-        "description": "Удаляли русский язык, просили путина закончить войну что бы вернуть его."
+        "commit_link": "https://github.com/louislam/uptime-kuma/tree/1.12.0",
+        "description": "Удаляли русский язык, просили путина закончить войну что бы вернуть его.  https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released"
     },
     {
         "id": 355,
@@ -1588,7 +1588,15 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "pnpm",
-        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83 , https://github.com/pnpm/pnpm/commit/0066c11b97799",
+        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83",
+        "description": "Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP."
+    },
+      {
+        "id": 90,
+        "datetime": "2022-03-29 15:48:48",
+        "problem_type": "ip_block",
+        "name": "pnpm",
+        "commit_link": "https://github.com/pnpm/pnpm/commit/0066c11b97799",
         "description": "Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP."
     },
     {
@@ -3060,7 +3068,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "Unity Ads for Android",
-        "commit_link": "https://github.com/Unity-Technologies/unity-ads-android https://unity.com/products/unity-ads",
+        "commit_link": "https://github.com/Unity-Technologies/unity-ads-android",
         "description": "После встраивания рекламы Unity Ads в мобильную игру, пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети"
     },
     {
@@ -3716,7 +3724,15 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "T-Regx",
-        "commit_link": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 и https://github.com/T-Regx/T-Regx/commit/7e481",
+        "commit_link": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552",
+        "description": "StandWithUkraine banner"
+    },
+    {
+        "id": 202,
+        "datetime": "2022-03-29 15:48:48",
+        "problem_type": "political_slogans",
+        "name": "T-Regx",
+        "commit_link": "https://github.com/T-Regx/T-Regx/commit/7e481",
         "description": "StandWithUkraine banner"
     },
     {
@@ -3820,7 +3836,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "GM-DONATE (gm-donate.ru) система доната в Garry's mod",
-        "commit_link": "https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd10447",
+        "commit_link": "https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee",
         "description": "Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов, функционал позволяет."
     },
     {
@@ -4300,8 +4316,8 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "political_slogans",
         "name": "ScreenshotTile",
-        "commit_link": "https://github.com/cvzi/ScreenshotTile/blob/master/app/src/main/java/com/github/cvzi/screenshottile/utils/Utils.kt#L793",
-        "description": "всплывающие сообщения при снимках экрана"
+        "commit_link": "https://github.com/cvzi/ScreenshotTile/blob/master/app/src/main/java/com/github/cvzi/screenshottile/utils/Utils.kt",
+        "description": "всплывающие сообщения при снимках экрана Utils.kt#L793"
     },
     {
         "id": 341,
@@ -4516,8 +4532,8 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "political_slogans",
         "name": "burgua/yandex_search_in_chrome",
-        "commit_link": "https://github.com/burgua/yandex_search_in_chrome/blob/master/code.js#L3",
-        "description": "Аддон открывает видео Ильи Яшина на ютубе. До этого открывал видео Каца"
+        "commit_link": "https://github.com/burgua/yandex_search_in_chrome/blob/master/code.js",
+        "description": "Аддон открывает видео Ильи Яшина на ютубе. До этого открывал видео Каца code.js#L3"
     },
     {
         "id": 433,
@@ -5268,7 +5284,7 @@
         "datetime": "2022-11-11 13:00:00",
         "problem_type": "political_slogans",
         "name": "preactjs/preact-www (Preact JS)",
-        "commit_link": "https://github.com/preactjs/preact-www/commit/b04ccc87e480c950a8a55b2a376d24dea09dda36#diff-71dbb35ea3b8b527f82a89549131f93ab71aa72acc533bff9c704c1fb8f99d52R28",
+        "commit_link": "https://github.com/preactjs/preact-www/commit/b04ccc87e480c950a8a55b2a376d24dea09dda36",
         "description": "В шапке сайта https://preactjs.com/ баннер в поддержку Украины. А ведь раньше там был лозунг BLM. Это что же, для вас жизни белых снова важнее черных?"
     },
     {
