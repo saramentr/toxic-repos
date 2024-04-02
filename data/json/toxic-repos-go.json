@@ -4,7 +4,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/uber-go/atomic",
+        "commit_link": "github.com/uber-go/atomic",
         "description": "Удален с github"
     },
     {
@@ -12,7 +12,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/go-yaml/yaml",
+        "commit_link": "github.com/go-yaml/yaml",
         "description": "Удален с github"
     }
 ]
