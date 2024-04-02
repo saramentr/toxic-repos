@@ -4,22 +4,6 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/kubernetes/client-go",
-        "description": "Удален с github"
-    },
-    {
-        "id": 4,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "broken_assembly",
-        "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/valyala/fasthttp",
-        "description": "Удален с github"
-    },
-    {
-        "id": 4,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "broken_assembly",
-        "name": "fomvasss/laravel-dadata",
         "commit_link": "gopkg.in/yaml.v3",
         "description": "Удален с github"
     },
@@ -44,7 +28,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://golang.org/x/sync",
+        "commit_link": "github.com/slack-go/slack",
         "description": "Удален с github"
     },
     {
@@ -52,7 +36,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/kubernetes/client-go",
+        "commit_link": "github.com/valyala/fasthttp",
         "description": "Удален с github"
     },
     {
@@ -61,22 +45,6 @@
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
         "commit_link": "go.uber.org/atomic",
-        "description": "Удален с github"
-    },
-    {
-        "id": 4,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "broken_assembly",
-        "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://go.uber.org/atomic",
-        "description": "Удален с github"
-    },
-    {
-        "id": 4,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "broken_assembly",
-        "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://github.com/slack-go/slack",
         "description": "Удален с github"
     },
     {
