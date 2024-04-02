@@ -28,7 +28,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
-        "commit_link": "https://gopkg.in/yaml.v3",
+        "commit_link": "k8s.io/client-go",
         "description": "Удален с github"
     },
     {
