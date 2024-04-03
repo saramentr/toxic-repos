@@ -12,6 +12,14 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "broken_assembly",
         "name": "fomvasss/laravel-dadata",
+        "commit_link": "https://gopkg.in/yaml.v3",
+        "description": "Удален с github"
+    },    
+    {
+        "id": 4,
+        "datetime": "2022-03-29 15:48:48",
+        "problem_type": "broken_assembly",
+        "name": "fomvasss/laravel-dadata",
         "commit_link": "github.com/go-yaml/yaml",
         "description": "Удален с github"
     }
